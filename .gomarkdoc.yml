@@ -1,0 +1,4 @@
+output: "{{.Dir}}/README.md"
+embed: true
+repository:
+  url: https://github.com/cinar/indicatoralpaca
